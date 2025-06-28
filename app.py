@@ -400,4 +400,3 @@ This report is for informational purposes only and should not replace profession
             mime="text/plain"
         )
 
-st.sidebar.markdown("---")
