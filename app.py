@@ -401,4 +401,3 @@ This report is for informational purposes only and should not replace profession
         )
 
 st.sidebar.markdown("---")
-st.sidebar.info("This enhanced version uses real disease mortality data from WHO/CDC to provide more accurate risk assessments.")
